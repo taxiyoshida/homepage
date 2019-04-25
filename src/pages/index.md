@@ -5,7 +5,7 @@ heading: ' Developing an Open and Scalable Digital Economy'
 description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させる
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/josh-riemer-450080-unsplash-1-.jpg
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
