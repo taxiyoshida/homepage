@@ -30,18 +30,13 @@ offerings:
         Experiencing concentration of mainframe computers, and distribution
         through client servers, rise of mobile cause cloud concentration over
         the past 10 years. 
-    - image: /img/meeting-space.png
-      text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
-        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
-        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
-        elit auctor  risus.
+    - image: /img/lucrezia-carnelos-1081230-unsplash-1-.jpg
+      text: >+
+        5G is expected to promote social implementation of VR (virtual reality),
+        AR (augmented reality), MR (mixed reality). Usage can be used not only
+        in gaming and entertainment but also in the field of scientific
+        research, medical care, product development, and retail.
+
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
