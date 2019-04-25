@@ -25,18 +25,11 @@ offerings:
         lie to us and try to make us believe it's for our own good, yet we're
         the criminals.
     - image: /img/pietro-jeng-266017-unsplash-1-.jpg
-      text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
-        quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl.
-        Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque
-        lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla.
-        Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec
-        volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere.
-        Ut suscipit auctor tortor. Phasellus leo dui, elementum  non
-        sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
-        porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
-        risus.
+      text: >-
+        Computing continued to be pendulum of concentration and dispersion.
+        Experiencing concentration of mainframe computers, and distribution
+        through client servers, rise of mobile cause cloud concentration over
+        the past 10 years. 
     - image: /img/meeting-space.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
