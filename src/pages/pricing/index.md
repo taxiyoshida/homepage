@@ -8,17 +8,20 @@ pricing:
   plans:
     - description: 最初の7日間は無料でお楽しみ頂けます
       items:
-        - ''
+        - 一部のオリジナル特集が読める
+        - 一部のオリジナル動画が読める
       plan: Trial
       price: '0'
     - description: すべてのコンテンツをレコメンド機能と検索で最高の体験
       items:
-        - ''
+        - オリジナル特集 読み放題
+        - オリジナル動画 見放題
       plan: Monthly
       price: '20'
     - description: 年間契約で約40ドルのディスカウントでお楽しみ頂けます
       items:
-        - ''
+        - オリジナル特集 読み放題
+        - オリジナル動画 見放題
       plan: Annual
       price: '200'
 meta_title: Pricing | axion technologies homepage
