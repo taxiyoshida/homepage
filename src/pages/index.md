@@ -24,7 +24,7 @@ offerings:
         criminals. You build atomic bombs, you wage wars, you murder, cheat, and
         lie to us and try to make us believe it's for our own good, yet we're
         the criminals.
-    - image: /img/tutorials.png
+    - image: /img/pietro-jeng-266017-unsplash-1-.jpg
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
         vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
@@ -60,7 +60,7 @@ testimonials:
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: Home | Gatsby Starter Business
+meta_title: Home | axion technologies kk
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
