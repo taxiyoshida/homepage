@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: 株式会社アクシオンテクノロジーズ   Axion Technologies
-heading: ' Developing an Open and Scalable Digital Economy'
+title: ' Developing an Open and Scalable Digital Economy'
+heading: インターネットコンテンツ消費の新しい形態を提示する
 description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させることが、アクシオンテクノロジーズの人々の使命です。
 offerings:
   blurbs:
