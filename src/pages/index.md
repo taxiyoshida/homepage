@@ -1,10 +1,8 @@
 ---
 templateKey: home-page
 title: 株式会社アクシオンテクノロジーズ
-heading: Lorem ipsum dolor sit amet
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+heading: ' Developing an Open and Scalable Digital Economy'
+description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させる
 offerings:
   blurbs:
     - image: /img/coffee.png
