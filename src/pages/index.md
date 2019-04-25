@@ -1,22 +1,16 @@
 ---
 templateKey: home-page
-title: 株式会社アクシオンテクノロジーズ
+title: 株式会社アクシオンテクノロジーズ   Axion Technologies
 heading: ' Developing an Open and Scalable Digital Economy'
-description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させる
+description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させることが、アクシオンテクノロジーズの人々の使命です。
 offerings:
   blurbs:
     - image: /img/josh-riemer-450080-unsplash-1-.jpg
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
+      text: >-
+        The digital economy is growing at a rate so much faster than the rest of
+        the economy, but it’s really important, as the digital economy grows,
+        that we figure out how to make sure government, the private sector, and
+        the consumer are in sync.
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
