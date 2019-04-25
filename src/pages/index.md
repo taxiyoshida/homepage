@@ -6,37 +6,17 @@ description: 人々が新しい経済の秩序を知るためのサブスクリ�
 offerings:
   blurbs:
     - image: /img/josh-riemer-450080-unsplash-1-.jpg
-      text: >-
-        The digital economy is growing at a rate so much faster than the rest of
-        the economy, but it’s really important, as the digital economy grows,
-        that we figure out how to make sure government, the private sector, and
-        the consumer are in sync.
+      text: >
+        デジタルエコノミーは他のエコノミーよりもはるかに速い速度で成長していますが、デジタルエコノミーが成長するにつれて、政府、民間セクター、および市民が確実にシンクロナイズするようにする方法を考え出すことが本当に重要です。
     - image: /img/drew-graham-344554-unsplash-1-.jpg
       text: >-
-        This is our world now... the world of the electron and the switch, the
-        beauty of the baud.  We make use of a service already existing without
-        paying for what could be dirt-cheap if it wasn't run by profiteering
-        gluttons, and you call us criminals.  We explore... and you call us
-        criminals.  We seek
-
-        after knowledge... and you call us criminals.  We exist without skin
-        color, without nationality, without religious bias... and you call us
-        criminals. You build atomic bombs, you wage wars, you murder, cheat, and
-        lie to us and try to make us believe it's for our own good, yet we're
-        the criminals.
+        私達は進数関数的な変化を遂げる時代を行きています。あらゆるものたちがハイパーコネクティッドな現代では、一つの変化が全く予想のできなかった新しい変化を引き起こすことになります。
     - image: /img/pietro-jeng-266017-unsplash-1-.jpg
       text: >-
-        Computing continued to be pendulum of concentration and dispersion.
-        Experiencing concentration of mainframe computers, and distribution
-        through client servers, rise of mobile cause cloud concentration over
-        the past 10 years. 
+        コンピューティングは集中と分散の振り子であり続けました。メインフレームコンピュータの集中、およびクライアントサーバーを介した分散を経験すると、その後はモバイルクライアントの台頭により、クラウドコンピューティングという強烈な集権化を経験しています。
     - image: /img/lucrezia-carnelos-1081230-unsplash-1-.jpg
-      text: >+
-        5G is expected to promote social implementation of VR (virtual reality),
-        AR (augmented reality), MR (mixed reality). Usage can be used not only
-        in gaming and entertainment but also in the field of scientific
-        research, medical care, product development, and retail.
-
+      text: >
+        5GはVR（バーチャルリアリティ）、AR（拡張現実）、MR（複合現実）の社会的実施を促進することが期待されています。使い方はゲームや娯楽だけでなく科学研究、医療、製品開発、そして小売の分野でも使うことができます。
 testimonials:
   - author: 'Vaibhav Sharma,'
     quote: 素晴らしいソフトウェア開発能力を秘めた最高のチーム
