@@ -38,21 +38,13 @@ offerings:
         research, medical care, product development, and retail.
 
 testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
+  - author: 'Vaibhav Sharma,'
+    quote: 素晴らしいソフトウェア開発能力を秘めた最高のチーム
   - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
+    quote: 経済とテックのミックスが生み出す暴力的なエネルギーを分析する力強い能力
 meta_title: Home | axion technologies kk
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: >
+  テクノロジーが創出する新しい経済のことをぼくたちは「テックエコノミー」と呼びます。axionはこのテックエコノミーをめぐる予測と検討をするコミュニティです。これをネットワーク接続によりコンピューティングのちからに誰もがアクセス可能になったことに着目してConnected
+  Economy(接続経済)と呼ぶこともできるでしょう。テックエコノミーはこれまでの経済原則を大きく裏切り、オールドエコノミーの制約が取り除かれ、固定概念から解放された新しいエコシステムを模索しています。そこではいままでばらばらに動いていたものたちがネットワークのひとつとなることで、コンピューティングパワーの活用可能性を獲得するのです。
 ---
 
