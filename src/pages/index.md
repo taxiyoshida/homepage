@@ -11,19 +11,19 @@ offerings:
         the economy, but it’s really important, as the digital economy grows,
         that we figure out how to make sure government, the private sector, and
         the consumer are in sync.
-    - image: /img/coffee-gear.png
-      text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
-        consectetur congue.
+    - image: /img/drew-graham-344554-unsplash-1-.jpg
+      text: >-
+        This is our world now... the world of the electron and the switch, the
+        beauty of the baud.  We make use of a service already existing without
+        paying for what could be dirt-cheap if it wasn't run by profiteering
+        gluttons, and you call us criminals.  We explore... and you call us
+        criminals.  We seek
+
+        after knowledge... and you call us criminals.  We exist without skin
+        color, without nationality, without religious bias... and you call us
+        criminals. You build atomic bombs, you wage wars, you murder, cheat, and
+        lie to us and try to make us believe it's for our own good, yet we're
+        the criminals.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
