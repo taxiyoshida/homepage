@@ -3,8 +3,9 @@ templateKey: pricing-page
 title: Pricing
 image: /img/jonas-leupe-425132-unsplash-1-.jpg
 pricing:
-  description: 広告で収益化されたパブリッシャーとは異なり、我々は月額課金でお受け取りしたお金を、ユーザーの方々の”本当のベネフィット”のために投資し続けます。
-  heading: Subscriptions
+  description: >-
+    広告で収益化されたパブリッシャーとは異なり、我々は月額の定額制でユーザーの方々からお受け取りしたお金を、ユーザーの方々の”本当のベネフィット”のために投資し続けます。
+  heading: 月額購読
   plans:
     - description: 最初の7日間は無料でお楽しみ頂けます
       items:
