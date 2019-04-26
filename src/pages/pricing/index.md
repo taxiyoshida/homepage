@@ -1,40 +1,31 @@
 ---
 templateKey: pricing-page
 title: Pricing
-meta_title: Pricing | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+image: /img/jonas-leupe-425132-unsplash-1-.jpg
 pricing:
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+    広告で収益化されたパブリッシャーとは異なり、我々は月額の定額制でユーザーの方々からお受け取りしたお金を、ユーザーの方々の”本当のベネフィット”のために投資し続けます。
+  heading: 月額購読
   plans:
-    - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
+    - description: 最初の7日間は無料でお楽しみ頂けます
       items:
-        - Lorem ipsum dolor sit amet
-        - consectetur adipiscing elit
-        - Nunc finibus sem a sem ultrices
-      plan: Pro
-      price: '50'
-    - description: Mauris vitae dolor eu mauris malesuada cursus.
+        - 一部のオリジナル特集が読める
+        - 一部のオリジナル動画が読める
+      plan: Trial
+      price: '0'
+    - description: すべてのコンテンツをレコメンド機能と検索で最高の体験
       items:
-        - eget sagittis magna tempor
-        - Quisque pulvinar lorem molestie
-        - Proin at sagittis ex
-      plan: Enterprise
-      price: '80'
-    - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
+        - オリジナル特集 読み放題
+        - オリジナル動画 見放題
+      plan: Monthly
+      price: '20'
+    - description: 年間契約で約40ドルのディスカウントでお楽しみ頂けます
       items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
-      plan: Custom
-      price: '??'
+        - オリジナル特集 読み放題
+        - オリジナル動画 見放題
+      plan: Annual
+      price: '200'
+meta_title: Pricing | axion technologies homepage
+meta_description: Pricing of subscription fee
 ---
 
