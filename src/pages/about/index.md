@@ -21,7 +21,8 @@ meta_description: >-
 
 **資本金** 10万円
 
-**事業内容** インターネットサービス事業
+**事業内容** インターネットサービス事業 / 月額購読経済メディア”
+[axion.zone](https://axion.zone/) ”の運営
 
 --- 
 
@@ -157,3 +158,11 @@ Please DM to Twitter[(@taxiyoshida)](https://twitter.com/taxiyoshida)。
 
 Language: English, Japanese
 
+# 吉田拓史
+ぼくの経歴はこちら。
+[taxiyoshida.net](https://taxiyoshida.net/)
+[LinkedIn](https://www.linkedin.com/in/takushi-yoshida-a7749961/)
+
+ぼくは人間の知識開発を改良し、個人の意思決定を改善することで、人間集合の発展を目指して活動しています。このaxionでは、人間を基礎的な制約から解放するため、経済の高度化を企図し、それに関わる経済人の知性強化によってそれを実現しようと目論みます。axionは最初の一歩であり、他領域へのプロジェクトの拡張をしたいと考えています。
+
+Eyecatch image by Simon Cockell
