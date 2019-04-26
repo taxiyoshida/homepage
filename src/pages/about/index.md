@@ -9,11 +9,11 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 ---
 
-# **株式会社アクシオンテクノロジーズ**
+# 株式会社アクシオンテクノロジーズ
 
-** Axion Technologie K.K.**
+** 英名 Axion Technologie K.K.**
 
-**所在地**　埼玉県さいたま市南区白幡3−1−9 2-603
+**所在地**  埼玉県さいたま市南区白幡3−1−9 2-603
 
 **TEL**  048-863-0537
 
