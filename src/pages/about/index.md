@@ -11,7 +11,7 @@ meta_description: >-
 
 # 株式会社アクシオンテクノロジーズ
 
-** 英名 ** Axion Technologie K.K.
+**英名** Axion Technologie K.K.
 
 **所在地**  埼玉県さいたま市南区白幡3−1−9 2-603
 
@@ -36,6 +36,11 @@ meta_description: >-
 - <https://taxiyoshida.net/>
 
 ---
+
+
+
+
+
 
 # ビジョン
 
