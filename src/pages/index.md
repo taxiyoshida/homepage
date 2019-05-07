@@ -1,8 +1,8 @@
 ---
 templateKey: home-page
-title: ' Developing an Open and Scalable Digital Economy'
-heading: インターネットコンテンツ消費の新しい形態を提示する
-description: 人々が新しい経済の秩序を知るためのサブスクリプションメディアを開発することで、社会を指数関数的に進歩させることが、アクシオンテクノロジーズの人々の使命です。
+title: アジアのデジタル経済ニュースと業界分析がひとつのアプリでわかります
+heading: 月額制ニュースメディアが提供する確実で高品質な情報
+description: 人々が新しい経済の秩序を知るための定額制メディアを開発することで、社会を指数関数的に進歩させることが、アクシオンテクノロジーズの人々の使命です。
 offerings:
   blurbs:
     - image: /img/josh-riemer-450080-unsplash-1-.jpg
@@ -18,10 +18,10 @@ offerings:
       text: >
         5GはVR（バーチャルリアリティ）、AR（拡張現実）、MR（複合現実）の社会的実施を促進することが期待されています。使い方はゲームや娯楽だけでなく科学研究、医療、製品開発、そして小売の分野でも使うことができます。
 testimonials:
-  - author: 'Vaibhav Sharma,'
-    quote: 素晴らしいソフトウェア開発能力を秘めた最高のチーム
-  - author: Subarashi San
-    quote: 経済とテックのミックスが生み出す暴力的なエネルギーを分析する力強い能力
+  - author: ''
+    quote: ''
+  - author: ''
+    quote: ''
 meta_title: Home | axion technologies kk
 meta_description: >
   テクノロジーが創出する新しい経済のことをぼくたちは「テックエコノミー」と呼びます。axionはこのテックエコノミーをめぐる予測と検討をするコミュニティです。これをネットワーク接続によりコンピューティングのちからに誰もがアクセス可能になったことに着目してConnected
